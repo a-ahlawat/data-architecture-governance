@@ -22,4 +22,4 @@ One record represents one booked order line. The composite key is `(order_id, li
 
 **Publication criteria** · The candidate must pass key, validity-window, history-match, and source reconciliation checks. The proposed freshness target is a validated publication by 08:00 UTC daily. A missed target triggers a freshness notice with the timestamp of the last successful publication.
 
-**Change policy** · Review any change with consumers. A change to grain, metric definition, column meaning, or required fields needs a new major version and an agreed migration period. An additive optional field can ship in a minor version after compatibility review. A source correction that changes an already-published result follows the restatement decision in ADR 001.
+**Change policy** · Review any change with consumers. A change to grain, metric definition, column meaning, or required fields needs a new major version and an agreed migration period. An additive optional field can ship in a minor version after compatibility review. A source correction that changes an already-published result follows the restatement decision in Decision 001.
