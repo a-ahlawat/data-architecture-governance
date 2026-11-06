@@ -1,4 +1,4 @@
-# ADR 001 · Historical customer segment
+# DECISION 001 · Historical customer segment
 
 **Status** · Accepted for this case study
 
