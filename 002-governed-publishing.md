@@ -1,4 +1,4 @@
-# ADR 002 · Governed publishing
+# DECISION 002 · Governed publishing
 
 **Status** · Accepted for this case study
 
