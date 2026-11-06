@@ -14,8 +14,8 @@ flowchart LR
 
 | Artifact | Design question |
 | --- | --- |
-| [ADR 001 · Historical customer segment](decisions/001-historical-segment.md) | How should historical reporting behave when a customer changes segment or a source corrects history? |
-| [ADR 002 · Governed publishing](decisions/002-governed-publishing.md) | What should happen when the next refresh fails validation? |
+| [Decision 001 · Historical customer segment](decisions/001-historical-segment.md) | How should historical reporting behave when a customer changes segment or a source corrects history? |
+| [Decision 002 · Governed publishing](decisions/002-governed-publishing.md) | What should happen when the next refresh fails validation? |
 | [Order-line data contract](order-line-contract.md) | What can consumers rely on, and how do changes get introduced? |
 | [Control matrix](control-matrix.md) | Who owns each control, how does it run, and what evidence does it leave? |
 
